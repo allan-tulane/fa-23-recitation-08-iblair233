@@ -2,8 +2,8 @@
 
 ## Answers
 
-**Name:**_________________________
-**Name:**_________________________
+**Name:** Izzy Blair 
+
 
 
 Place all written answers from `recitation-08.md` here for easier grading.
@@ -12,7 +12,7 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 - **1b)**
 
-
+Work and span is O(|E|log|E|) because it is Dijkstra's Algorithm.
 
 - **2b)**
 
